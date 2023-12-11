@@ -1,0 +1,5 @@
+Modified		includes/admin/install.php
+Modified		includes/theme-widgets/class-widget-listing-map.php
+Modified		parts/widget-listing-map.php
+Modified		theme-framework
+Modified		theme-framework/templates/foundation/form-registration.php
